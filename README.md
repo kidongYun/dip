@@ -47,3 +47,4 @@
 </br>
 
 [DIP : Design In Program](https://github.com/hyun940630/dip-1)
+[test page](https://kidongyun.github.io/category/project/res/2019-07-24-design-in-programming/dip/index.html)
