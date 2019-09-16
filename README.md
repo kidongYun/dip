@@ -5,9 +5,9 @@
 
 ## ScreenShots
 <div>
-  <img width="260" alt="1" src="https://user-images.githubusercontent.com/33711323/64934149-b033a200-d883-11e9-8f2c-1b8b4923062a.png">
-  <img width="260" alt="2" src="https://user-images.githubusercontent.com/33711323/64934150-b033a200-d883-11e9-8def-39f8734e3b96.png">
-  <img width="260" alt="3" src="https://user-images.githubusercontent.com/33711323/64934151-b0cc3880-d883-11e9-8f77-ef65f047ed96.png">
+  <img width="800" alt="1" src="https://user-images.githubusercontent.com/33711323/64934149-b033a200-d883-11e9-8f2c-1b8b4923062a.png">
+  <img width="800" alt="2" src="https://user-images.githubusercontent.com/33711323/64934150-b033a200-d883-11e9-8def-39f8734e3b96.png">
+  <img width="800" alt="3" src="https://user-images.githubusercontent.com/33711323/64934151-b0cc3880-d883-11e9-8f77-ef65f047ed96.png">
 </div>  
 
 </br>
